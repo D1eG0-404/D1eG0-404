@@ -40,6 +40,23 @@
 A beleza da programação está na capacidade de transformar lógica em inovação, assim como a vida transforma desafios em oportunidades.
 ```
 
+## websites para estudar
+
+doegp
+
+---
+fsdfsfss
+
+```
+
+```
+
+
+
+
+
+
+
 <!-- Apenas exemplo para usar neste readme e colocar badges.
 <div style="display: inline_block"><br/>
     <img align="center" alt="kotlin" height="30" src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=for-the-badge">
